@@ -1,0 +1,118 @@
+/* MATRICULA */
+select {
+  padding: 10px !important;
+  font-size: 18px !important;
+  background: #eff4f9 !important;
+  border: none !important;
+  border-radius: 5px !important;
+  font-family: 'Nunito', sans-serif !important;
+  font-weight: bold !important;
+  color: #BBCCDD !important;
+  outline: none !important;
+}
+
+::-webkit-input-placeholder {
+  font-size: 18px !important;
+  font-weight: bold !important;
+  color: #BBCCDD !important;
+  font-family: 'Nunito', sans-serif !important;
+}
+:-ms-input-placeholder {
+  font-size: 18px !important;
+  font-weight: bold !important;
+  color: #BBCCDD !important;
+  font-family: 'Nunito', sans-serif !important;
+}
+:-ms-input-placeholder {
+  font-size: 18px !important;
+  font-weight: bold !important;
+  color: #BBCCDD !important;
+  font-family: 'Nunito', sans-serif !important;
+}
+
+.bg-titulo {
+  background: #EFF4F9;
+}
+
+.titulo-matricula {
+  font-size: 72px;
+  font-family: 'Alice', serif;
+  color: #445566;
+  padding: 10px;
+  margin-bottom: 60px;
+}
+
+
+.formulario-matricula label {
+  font-family: 'Nunito', sans-serif;
+  font-size: 18px;
+  color: #445566;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.formulario-matricula input {
+  font-family: 'Nunito', sans-serif;
+  font-size: 18px;
+  color: #445566;
+  margin-bottom: 5px;
+  background: #eff4f9;
+  outline: none;
+  box-shadow: 0px 2px 2px rgba(187, 204, 221, 0.4);
+  border-radius: 5px;
+  border: none;
+  padding: 10px;
+}
+
+.titulo-pagamento {
+  font-size: 18px;
+  color: #1188EE;
+  font-weight: bold;
+  font-family: 'Nunito', sans-serif;
+}
+
+.valor-debito {
+  font-size: 18px;
+  font-family: 'Nunito', sans-serif;
+  color: #445566;
+  font-weight: 500;
+}
+
+.cor-btn {
+  background: #1188EE;
+  color: white;
+  font-family: 'Nunito', sans-serif;
+  text-transform: uppercase;
+  font-size: 18px;
+}
+
+.informacoes-seguras {
+  display: flex;
+}
+
+.informacoes-seguras img {
+  margin-bottom: 60px;
+  margin-right: 5px;
+}
+
+.informacoes-seguras p {
+  margin-bottom: 60px;
+}
+
+.titulo-plano {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Nunito', sans-serif;
+  color: #1188EE;
+}
+
+li {
+  list-style: none;
+}
+
+.bg-plano {
+  background: #eff4f9;
+  height: 540px;
+  padding: 10px;
+  border-radius: 5px;
+}
